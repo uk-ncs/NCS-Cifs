@@ -1,0 +1,31 @@
+_cell_measurement_temperature         100(2)
+
+_diffrn_detector 			'hybrid pixel array detector'
+_diffrn_detector_area_resol_mean 	10
+_diffrn_detector_dtime 		0.000
+_diffrn_detector_type 		'Rigaku, HyPix 6000HE'
+
+_diffrn_measurement_device 		'four-circle diffractometer'
+_diffrn_measurement_device_details 	'Rigaku, UG2 \k goniometer'
+_diffrn_measurement_device_type
+;
+Rigaku 007HF diffractometer with HF Varimax confocal mirrors, an UG2 goniometer and HyPix 6000HE detector
+;
+_diffrn_measurement_method 		'profile data from \w-scans'
+_diffrn_measurement_specimen_support 	'MiTeGen loops'
+
+
+_diffrn_radiation_collimation         	0.3
+_diffrn_radiation_collimation 	'HF Varimax focusing mirrors'
+_diffrn_radiation_probe 		'x-ray'
+_diffrn_radiation_type 		'Cu K\a'
+
+_diffrn_source 			'Rotating anode'
+_diffrn_source_type 		'Rigaku 007 HF'
+_diffrn_source_power 		1.2
+_diffrn_source_voltage 		40.0
+_diffrn_source_current 		30.0
+_diffrn_source_target 		Cu
+_diffrn_radiation_wavelength 		1.54178
+
+_diffrn_ambient_temperature           100(2)
